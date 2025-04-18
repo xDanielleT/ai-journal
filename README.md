@@ -1,73 +1,43 @@
-# Welcome to your Lovable project
 
-## Project info
+# AI Journal - Your Positive Message Companion
 
-**URL**: https://lovable.dev/projects/503f78f2-45e7-4392-ae2d-53565eaea7de
+## About
 
-## How can I edit this code?
+AI Journal is a web application that helps users process their thoughts and feelings through journaling, complemented by AI-generated positive and uplifting responses. It's designed to provide emotional support and encourage self-reflection through a modern, user-friendly interface.
 
-There are several ways of editing your application.
+## Features
 
-**Use Lovable**
+- **Journal Entry System**: Write down your thoughts and feelings in a clean, distraction-free environment
+- **AI-Powered Responses**: Receive supportive and uplifting messages based on your journal entries
+- **Modern UI**: Clean and responsive design with smooth animations
+- **Accessibility**: Built with accessibility in mind using semantic HTML and ARIA attributes
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/503f78f2-45e7-4392-ae2d-53565eaea7de) and start prompting.
+## Technology Stack
 
-Changes made via Lovable will be committed automatically to this repo.
+This project is built with modern web technologies:
 
-**Use your preferred IDE**
+- React + TypeScript
+- Tailwind CSS for styling
+- shadcn/ui for UI components
+- Vite as the build tool
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
+## Getting Started
 
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
+1. Clone the repository
+2. Install dependencies:
+   ```bash
+   npm install
+   ```
+3. Start the development server:
+   ```bash
+   npm run dev
+   ```
 
-Follow these steps:
+## Contributing
 
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
+Contributions are welcome! Please feel free to submit a Pull Request.
 
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
+## License
 
-# Step 3: Install the necessary dependencies.
-npm i
+MIT License - feel free to use this project for personal or commercial purposes.
 
-# Step 4: Start the development server with auto-reloading and an instant preview.
-npm run dev
-```
-
-**Edit a file directly in GitHub**
-
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
-
-**Use GitHub Codespaces**
-
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
-
-## What technologies are used for this project?
-
-This project is built with:
-
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
-
-## How can I deploy this project?
-
-Simply open [Lovable](https://lovable.dev/projects/503f78f2-45e7-4392-ae2d-53565eaea7de) and click on Share -> Publish.
-
-## Can I connect a custom domain to my Lovable project?
-
-Yes, you can!
-
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
-
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/tips-tricks/custom-domain#step-by-step-guide)
